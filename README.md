@@ -1,7 +1,7 @@
 ### Badho News
 
-App made with Graphql API from NewsAPI.org
+A mobile app to get all the top headlines of India - powered by Graphql API from NewsAPI.org
 
-Tech Stack
+**Tech Stack**
 - React Native
 - GraphQL
